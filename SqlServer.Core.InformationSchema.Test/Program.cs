@@ -79,5 +79,4 @@ namespace SqlServer.Core.InformationSchema.Test
             }
         }
     }
-
 }
